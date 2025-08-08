@@ -1,0 +1,22 @@
+[
+    {
+        "Project Name": "Mall of Tripla reinnovation",
+        "Domain": "Construction",
+        "Start Date": "1.5.2025",
+        "End Date": "1.5.2026",
+        "Commission": 200000,
+        "Company Name": "MJY Saneeraus",
+        "Contact Person": "Matti Laaksonen",
+        "Contact Person Phone": "0469370684"
+    },
+    {
+        "Project Name": "Legacy System SW update",
+        "Domain": "Coding",
+        "Start Date": "1.7.2025",
+        "End Date": "1.8.2025",
+        "Commission": 1600,
+        "Company Name": "VIP Laskenta",
+        "Contact Person": "Jarno Tapio",
+        "Contact Person Phone": "0458392039"
+      }
+  ]
